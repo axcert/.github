@@ -1,6 +1,5 @@
+![Axcertro Software Development Company](https://user-images.githubusercontent.com/16050349/172024669-31dde8fb-16c1-4df6-926e-57058ef39518.jpg)
 
-
-![Axcertro Git Banner](https://user-images.githubusercontent.com/16050349/169678854-b24be353-a46e-4e2e-a5e4-95bb4ee29361.png)
 
 ## Hi there 👋
 
